@@ -1,4 +1,4 @@
-# Pusher Relay Chat 💬
+# Nodecommandlinechat with Pusher ChatKit 💬
 > Terminal chat application built with Pusher Chatkit! 🚀
 
 ## Requirements
