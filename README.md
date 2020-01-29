@@ -34,4 +34,5 @@ Run the client via:
 ```
 node client.js
 ```
-![](CLINodeChatApp.png)
+voila un Preview:
+![](CliNodeChatApp.png)
